@@ -1,0 +1,102 @@
+chan_id,spacecraft,anomaly_sequences,class,num_values,type,class1,class2,Class_Or,L,,MA,,F,
+A-1,SMAP,"[[4690, 4774]]",[point],8640,[binary],point,point,point,1,1,1,0,1,0
+A-2,SMAP,"[[4450, 4560]]",[contextual],7914,"[continuous,periodic]",wave,frequency,wave,1,0,1,1,1,1
+A-3,SMAP,"[[4575, 4760]]",[contextual],8205,"[continuous,periodic]",wave,frequency,wave,1,0,1,1,1,1
+A-4,SMAP,"[[4550, 4660]]",[contextual],8080,"[continuous,periodic]",wave,frequency,wave,1,0,1,1,1,1
+A-5,SMAP,"[[2750, 2800]]",[point],4693,[continuous],magnitude,point,magnitude,1,1,1,0,1,1
+A-6,SMAP,"[[1890, 1930]]",[point],4453,[continuous],magnitude,point,magnitude,1,1,1,0,1,1
+A-7,SMAP,"[[6200, 8600]]",[contextual],8631,[continuous],magnitude,magnitude,magnitude,0,0,1,1,1,0
+B-1,SMAP,"[[5060, 5130]]",[point],8044,[binary],change,change,change,1,1,1,0,1,1
+D-1,SMAP,"[[5250, 8508]]",[point],8509,[continuous],magnitude,magnitude,magnitude,1,0,1,1,1,1
+D-11,SMAP,"[[4270, 4330]]",[point],7431,[continuous],change,change,change,1,1,1,0,1,1
+D-12,SMAP,"[[5178, 7917]]",[point],7918,[continuous],magnitude,magnitude,magnitude,1,1,1,1,1,1
+D-13,SMAP,"[[5070, 5230]]",[point],7663,[continuous],change,change,change,1,1,1,0,1,1
+D-2,SMAP,"[[4319, 8536]]",[point],8595,[binary],magnitude,magnitude,magnitude,1,0,1,1,1,0
+D-3,SMAP,"[[5225, 8500]]",[point],8640,[continuous],magnitude,magnitude,magnitude,1,1,1,1,0,0
+D-4,SMAP,"[[5225, 8472]]",[point],8473,[continuous],magnitude,magnitude,magnitude,1,1,1,1,0,0
+D-5,SMAP,"[[4800, 4850]]",[point],7628,[binary],change,change,point,1,1,1,0,1,0
+D-6,SMAP,"[[4870, 4950]]",[point],7884,[continuous],point,point,point,1,1,1,0,1,0
+D-7,SMAP,"[[4940, 7641]]",[point],7642,[continuous],magnitude,magnitude,magnitude,1,1,1,1,1,1
+D-8,SMAP,"[[4370, 4420]]",[point],7874,[binary],point,point,point,1,1,1,0,1,0
+D-9,SMAP,"[[6250, 7405]]",[point],7406,[binary],magnitude,magnitude,magnitude,1,0,1,1,1,0
+E-1-1,SMAP,"[[5000, 5030]]",[contextual],5310,"[binary,periodic]",frequency,frequency,frequency,1,1,0,0,0,0
+E-1-2,SMAP,"[[300,570]]",[contextual],3206,"[binary,periodic]",wave,frequency,frequency,1,0,1,1,0,0
+E-10-1,SMAP,"[[5000,5050]]",[contextual],5325,"[binary,periodic]",frequency,frequency,frequency,1,1,0,0,1,1
+E-10-2,SMAP,"[[276,546]]",[contextual],3180,"[binary,periodic]",wave,frequency,frequency,1,0,1,1,1,1
+E-11-1,SMAP,"[[5000, 5050]]",[contextual],5332,"[binary,periodic]",frequency,frequency,frequency,1,1,0,0,1,1
+E-11-2,SMAP,"[[282,525]]",[contextual],3182,"[binary,periodic]",wave,frequency,frequency,1,0,1,1,1,1
+E-12-1,SMAP,"[[5000,5050]]",[contextual],5330,"[binary,periodic]",frequency,frequency,frequency,1,1,0,0,1,1
+E-12-2,SMAP,"[[280,811]]",[contextual],3182,"[binary,periodic]",wave,frequency,frequency,1,0,1,0,1,1
+E-13-1,SMAP,"[[5309, 5410]]",[contextual],5505,"[continuous,periodic]",wave,frequency,frequency,1,0,0,0,1,1
+E-13-2,SMAP,"[[95,135]]",[contextual],539,"[continuous,periodic]",wave,frequency,frequency,0,0,0,0,1,1
+E-13-3,SMAP,"[[405,525]]",[contextual],2596,"[continuous,periodic]",wave,frequency,wave,1,0,0,0,1,0
+E-2,SMAP,"[[5598, 6995]]",[point],8532,"[continuous,periodic]",wave,frequency,magnitude,1,0,1,0,1,0
+E-3,SMAP,"[[5094, 8306]]",[point],8307,[continuous],magnitude,magnitude,magnitude,1,0,1,1,1,0
+E-4,SMAP,"[[5450, 8261]]",[point],8354,[continuous],magnitude,magnitude,magnitude,1,1,1,1,0,0
+E-5,SMAP,"[[5600, 5920]]",[point],8294,"[binary,periodic]",wave,frequency,frequency,1,0,1,1,1,1
+E-6,SMAP,"[[5610, 5675]]",[point],8300,[continuous],point,point,point,1,1,1,1,1,1
+E-7,SMAP,"[[5394, 5674]]",[point],8310,[continuous],magnitude,magnitude,magnitude,1,1,1,1,1,1
+E-8,SMAP,"[[5400, 6022]]",[point],8532,[continuous],magnitude,wave,wave,1,0,1,1,0,0
+E-9,SMAP,"[[5550, 5900]]",[point],8302,[continuous],change,wave,wave,1,0,1,0,1,1
+F-1,SMAP,"[[5392, 5492]]",[point],8584,[continuous],point,point,point,0,0,0,0,0,0
+F-2,SMAP,"[[5669, 8625]]",[point],8626,[continuous],magnitude,wave,magnitude,1,0,1,1,1,0
+F-3,SMAP,"[[5600, 5640]]",[contextual],8376,[continuous],change,change,change,1,1,0,0,1,1
+G-1,SMAP,"[[4770, 4890]]",[contextual],8469,[continuous],wave,frequency,wave,0,0,0,0,1,1
+G-2,SMAP,"[[4030, 4070]]",[point],7361,[binary],point,point,point,1,1,1,1,1,1
+G-3,SMAP,"[[4200, 4250]]",[point],7907,[binary],point,point,point,1,1,1,1,1,1
+G-4,SMAP,"[[4690, 4720]]",[point],7632,[continuous],point,point,point,1,1,1,1,1,1
+G-6,SMAP,"[[5600, 5700]]",[point],8640,[continuous],change,change,change,1,1,0,0,1,1
+G-7-1,SMAP,"[[3650,3750]]",[contextual],4400,"[continuous,periodic]",frequency,frequency,frequency,0,0,1,1,1,1
+G-7-2,SMAP,"[[650,700]]",[point],1930,"[continuous,periodic]",magnitude,point,point,1,1,1,1,1,1
+G-7-3,SMAP,"[[1230,1345]]",[contextual],1699,"[continuous,periodic]",frequency,frequency,frequency,0,0,1,1,1,1
+P-1-1,SMAP,"[[2149,2349]]",[contextual],2944,[continuous],wave,wave,wave,1,0,1,1,1,1
+P-1-2,SMAP,"[[595,835]]",[contextual],1213,[continuous],wave,wave,wave,1,0,1,1,1,1
+P-1-3,SMAP,"[[378,686]]",[contextual],4348,[continuous],wave,wave,wave,1,0,0,0,1,1
+P-2,SMAP,"[[5300, 6420]]",[point],8209,[continuous],magnitude,magnitude,magnitude,1,1,1,1,1,1
+P-3,SMAP,"[[5401, 6736]]",[point],8493,[continuous],magnitude,magnitude,magnitude,1,1,1,1,1,1
+P-4-1,SMAP,"[[950,1080]]",[point],1615,[binary],point,point,point,1,1,1,1,1,1
+P-4-2,SMAP,"[[535,735]]",[point],1945,[binary],magnitude,magnitude,magnitude,1,1,1,1,1,1
+P-4-3,SMAP,"[[1210,1320]]",[point],4223,[binary],point,point,point,1,1,1,1,1,1
+P-7,SMAP,"[[4950, 6600]]",[contextual],8071,[continuous],magnitude,magnitude,magnitude,1,0,1,1,1,0
+R-1,SMAP,"[[4510, 4590]]",[point],7244,[binary],point,point,point,1,1,1,1,1,1
+S-1,SMAP,"[[5300, 5747]]",[point],7331,"[continuous,periodic]",magnitude,frequency,frequency,1,1,1,1,1,1
+T-1-1,SMAP,"[[2399,3898]]",[point],5224,"[continuous,periodic]",magnitude,magnitude,magnitude,1,1,1,1,1,1
+T-1-2,SMAP,"[[1326,1361]]",[contextual],3388,"[continuous,periodic]",wave,wave,wave,1,1,1,1,1,1
+T-2,SMAP,"[[6840, 8624]]",[point],8625,"[continuous,periodic]",magnitude,magnitude,magnitude,0,0,1,1,1,1
+T-3-1,SMAP,"[[2098, 2180]]",[point],3690,"[continuous,periodic]",point,point,point,1,1,1,1,1,1
+T-3-2,SMAP,"[[1510,1610]]",[point],4889,"[continuous,periodic]",point,point,point,1,1,1,1,1,1
+C-1-1,MSL,"[[550,750]]",[point],1425,[continuous],wave,wave,,1,0,0,0,1,1
+C-1-2,MSL,"[[675,785]]",[contextual],839,[continuous],magnitude,magnitude,,0,0,0,0,0,0
+C-2-1,MSL,"[[290, 390]]",[point],965,[continuous],magnitude,magnitude,,1,0,1,1,1,1
+C-2-2,MSL,"[[575,610]]",[contextual],1086,[continuous],wave,wave,,0,0,0,0,1,1
+D-14-1,MSL,"[[1630,1650]]",[point],1725,[binary],point,point,,1,1,1,1,1,1
+D-14-2,MSL,"[[75,275]]",[point],900,[binary],magnitude,magnitude,,1,0,1,1,1,1
+D-15,MSL,"[[1500, 2140]]",[point],2158,"[continuous,periodic]",magnitude,magnitude,,1,0,1,1,1,0
+D-16,MSL,"[[600, 1250]]",[contextual],2191,"[continuous,periodic]",magnitude,frequency,,1,0,1,1,1,1
+F-4,MSL,"[[2700, 2770]]",[point],3422,[continuous],wave,wave,,1,0,1,1,1,1
+F-5,MSL,"[[3550, 3700]]",[point],3922,[continuous],magnitude,magnitude,,1,0,1,1,1,1
+F-7-1,MSL,"[[1250, 1450]]",[contextual],2060,[continuous],wave,wave,,1,0,1,1,0,0
+F-7-2,MSL,"[[610,730]]",[contextual],997,[continuous],magnitude,wave,,0,0,1,1,1,1
+F-7-3,MSL,"[[267,367]]",[contextual],1997,[continuous],magnitude,wave,,0,0,1,1,0,0
+F-8,MSL,"[[1950, 2486]]",[contextual],2487,[continuous],magnitude,wave,,1,0,1,0,1,1
+M-1,MSL,"[[1110, 2250]]",[contextual],2277,[continuous],magnitude,wave,,0,0,0,0,0,0
+M-2,MSL,"[[1110, 2250]]",[contextual],2277,[continuous],magnitude,magnitude,,1,1,1,1,1,1
+M-3,MSL,"[[1250, 1500]]",[contextual],2127,[continuous],wave,wave,,1,0,1,1,0,0
+M-4,MSL,"[[1250, 1500]]",[contextual],2038,[continuous],wave,wave,,1,0,1,1,1,1
+M-5,MSL,"[[1250, 1550]]",[contextual],2303,[continuous],wave,wave,,1,0,0,0,0,0
+M-6,MSL,"[[1850, 2030]]",[point],2049,[continuous],magnitude,magnitude,,1,0,1,1,1,1
+M-7,MSL,"[[940, 1040]]",[point],2156,[continuous],magnitude,magnitude,,1,0,1,1,1,1
+P-10,MSL,"[[4590, 4720]]",[point],6100,[continuous],magnitude,change,,1,0,0,0,1,1
+P-11-1,MSL,"[ [1238, 1344]]",[point],1621,[continuous],magnitude,magnitude,,1,1,1,1,1,1
+P-11-2,MSL,"[[277,397]]",[point],1914,[continuous],point,point,,1,1,1,1,1,1
+P-14,MSL,"[[4575, 4755]]",[point],6100,[continuous],magnitude,change,,1,0,0,0,1,1
+P-15,MSL,"[[1390, 1410]]",[point],2856,[continuous],change,change,,1,1,0,0,1,1
+S-2,MSL,"[[900, 910]]",[point],1827,[binary],point,point,,1,1,1,1,1,1
+T-12,MSL,"[[630, 750]]",[contextual],2430,[continuous],wave,wave,,1,1,1,1,0,0
+T-13-1,MSL,"[[690, 790]]",[contextual],1345,[continuous],change,change,,1,1,0,0,1,1
+T-13-2,MSL,"[[555,705]]",[contextual],1085,[continuous],change,change,,1,1,0,0,1,1
+T-4,MSL,"[[1172, 1240]]",[point],2217,"[continuous,periodic]",magnitude,wave,,1,0,0,0,1,1
+T-5,MSL,"[[1200, 1225]]",[point],2218,[continuous],magnitude,point,,1,0,1,1,1,1
+T-8-1,MSL,"[[870, 930]]",[contextual],1130,[continuous],magnitude,frequency,,0,0,1,1,1,1
+T-8-2,MSL,"[[200,240]]",[contextual],389,[continuous],magnitude,frequency,,0,0,1,1,1,1
+T-9-1,MSL,"[[780, 810]]",[point],850,[continuous],magnitude,wave,,1,1,1,1,1,1
